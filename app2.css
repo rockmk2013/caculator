@@ -1,0 +1,19 @@
+.btn{
+
+	width:60px;height:40px;background-color:pink
+
+}
+body{
+	background-color: #00FF99;
+
+}
+h2{
+	color:#660033;
+}
+table{
+	width:150px;height:150px;
+	border-color: gray;	
+}
+.btntb{
+	background-color: gray;
+}
